@@ -205,9 +205,24 @@ Core packages (see `requirements.txt`):
 
 This project is for educational purposes as part of CSE 158 at UCSD.
 
-## Contact
+## Citation
+Generating Personalized Recipes from Historical User Preferences
+Bodhisattwa Prasad Majumder*, Shuyang Li*, Jianmo Ni, Julian McAuley
+EMNLP, 2019
 
-For questions or issues, please refer to the course materials or consult with the teaching staff.
+SHARE: a System for Hierarchical Assistive Recipe Editing
+Shuyang Li, Yufei Li, Jianmo Ni, Julian McAuley
+EMNLP, 2022
+
+## Author
+Authors: 
+- Reiner Luminto (A18554372)
+- Stephanie Patricia Anshell (A18503005)
+- Bryan Valerian Lie (A18545672) 
+
+Course: CSE 158 — Fall 2025
+
+Instructor: Julian McAuley
 
 ---
 
