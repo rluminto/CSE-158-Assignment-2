@@ -1,6 +1,6 @@
 feature,coefficient
-is_healthy,5.14561599765191e-17
-log_minutes,-2.0556473190325164e-16
-log_n_ingredients,-2.6476809975159096e-16
-recipe_mean_rating,1.0
-recipe_num_ratings,1.3595895242968226e-16
+is_healthy,-7.777907099898551e-16
+log_minutes,-2.7462841029057827e-16
+log_n_ingredients,-5.011597487372156e-16
+recipe_mean_rating,0.9999999999999838
+recipe_num_ratings,1.356336917779366e-16
