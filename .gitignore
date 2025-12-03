@@ -1,5 +1,3 @@
 datasets/
-instructions.txt
-implementation.txt
-quickstart.md
-IMPLEMENTATION_SUMMARY.md
+other/
+__pycache__/
