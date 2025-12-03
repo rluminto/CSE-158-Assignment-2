@@ -153,9 +153,9 @@ Edit `src/data_utils.py`, function `define_healthiness()`:
 
 ```python
 def define_healthiness(recipes, 
-                      calorie_threshold=500,      # Adjust this
-                      sugar_threshold=30,         # Adjust this
-                      satfat_threshold=30):       # Adjust this
+                      calorie_threshold=500,      
+                      sugar_threshold=30,        
+                      satfat_threshold=30):      
 ```
 
 ### Modifying Features
